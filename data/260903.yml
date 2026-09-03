@@ -1,11 +1,13 @@
 about:
-  description: 📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader.
+  description:
+  |
+    📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader.
   license: AGPL-3.0
   homepage: https://terminaltrove.com/hygg
   head: 423370e
   archived: false
   latestVersion: 0.1.26
-  collectedAt: 2026-09-03T05:28:25Z
+  collectedAt: 2026-09-03T22:34:49Z
 timeline:
   created: 2024-06-13
   lastCommit: 2026-08-26
@@ -26,7 +28,7 @@ language:
   HTML: 5649
   Dockerfile: 5083
   JavaScript: 5034
-totalLine: 2711861
+totalBytes: 2711861
 recent:
   last30d:
     since: 2026-08-04
