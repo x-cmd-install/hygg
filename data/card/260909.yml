@@ -7,7 +7,7 @@ about:
   latestVersion: "0.1.26"
   latestRelease: "0.1.26"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:11:56Z
+  collectedAt: 2026-09-09T20:34:03Z
 timeline:
   created: 2024-06-13
   lastCommit: 2026-08-26
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-17
   lastPrerelease: 
 popularity:
-  star: 352
+  star: 351
   watcher: 2
   fork: 16
   release: 29
@@ -89,7 +89,7 @@ total:
   commit: 342
 ---
 path: /home/runner/.x-repo/github.com/kruserr/hygg
-collectedAt: 2026-09-09T06:12:03Z
+collectedAt: 2026-09-09T20:34:10Z
 loc:
   Rust:
     code: 65332
