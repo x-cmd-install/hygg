@@ -4,13 +4,25 @@
 
 📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader.
 
-![hygg](https://repo.x-cmd.io/hygg.svg)
+![hygg](https://repo.x-cmd.io/hygg.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install hygg
 ```
+
+## 代码规模
+
+合计: **67,599** 行代码（覆盖前 5 种语言、共 **642** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 65,332 | 4,250 | 6,742 | 618 |
+| Css | 855 | 63 | 22 | 1 |
+| Toml | 486 | 244 | 89 | 15 |
+| Sh | 301 | 315 | 62 | 4 |
+| Python | 268 | 44 | 53 | 4 |
 
 ## 源代码
 
@@ -23,7 +35,6 @@ x install hygg
 - **最新版本**: `0.1.26` (2026-07-17)
 - **最近提交**: 2026-08-26
 - **Release 含资产**: 11 个
-- **发布时间**: 2026-07-17T18:24:10Z
 
 ## 流行度
 
@@ -38,20 +49,35 @@ x install hygg
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 7 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 9 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 26 | 0 | 0 | 0 | 0 | 0 |
 
-## 代码规模
+## Release 资产
 
-合计: **67,599** 行代码（覆盖前 5 种语言、共 **642** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [hygg-android-0.1.26-debug.apk](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-android-0.1.26-debug.apk) | 103.4 MiB | `other` |
+| [hygg-cli-0.1.26-macos-universal.tar.gz](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-cli-0.1.26-macos-universal.tar.gz) | 11.9 MiB | `native/darwin/x64` |
+| [hygg-cli-0.1.26-x86_64-linux.tar.gz](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-cli-0.1.26-x86_64-linux.tar.gz) | 7.0 MiB | `native/linux/x64` |
+| [hygg-cli-0.1.26-x86_64-windows.zip](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-cli-0.1.26-x86_64-windows.zip) | 5.4 MiB | `native/win/x64` |
+| [hygg-desktop-0.1.26-macos-universal.dmg](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-desktop-0.1.26-macos-universal.dmg) | 18.1 MiB | `native/darwin/x64` |
+| [hygg-desktop-0.1.26-x86_64-linux.AppImage](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-desktop-0.1.26-x86_64-linux.AppImage) | 83.4 MiB | `native/linux/x64` |
+| [hygg-desktop-0.1.26-x86_64-linux.deb](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-desktop-0.1.26-x86_64-linux.deb) | 9.8 MiB | `native/linux/x64` |
+| [hygg-desktop-0.1.26-x86_64-linux.rpm](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-desktop-0.1.26-x86_64-linux.rpm) | 9.8 MiB | `native/linux/x64` |
+| [hygg-desktop-0.1.26-x86_64-windows.exe](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-desktop-0.1.26-x86_64-windows.exe) | 7.2 MiB | `native/win/x64` |
+| [hygg-desktop-0.1.26-x86_64-windows.msi](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-desktop-0.1.26-x86_64-windows.msi) | 9.0 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/kruserr/hygg/releases/download/0.1.26/SHA256SUMS) | 1.0 KiB | `other` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 65,332 | 4,250 | 6,742 | 618 |
-| Css | 855 | 63 | 22 | 1 |
-| Toml | 486 | 244 | 89 | 15 |
-| Sh | 301 | 315 | 62 | 4 |
-| Python | 268 | 44 | 53 | 4 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/hygg) 上共有 **6** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `0.1.21` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -62,4 +88,4 @@ hygg 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:04:28Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:27:23Z._
