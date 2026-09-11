@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7392006,
       "digest": "sha256:fc8f1d9c1f1775b50547a7c9d28614ac4793da5352535522394bf442fafc34d0",
-      "download_count": 31,
+      "download_count": 32,
       "created_at": "2026-07-17T18:24:06Z",
       "updated_at": "2026-07-17T18:24:07Z",
       "browser_download_url": "https://github.com/kruseio/hygg/releases/download/0.1.26/hygg-cli-0.1.26-x86_64-linux.tar.gz"
