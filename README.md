@@ -14,14 +14,14 @@ x install hygg
 
 ## Code insight
 
-Total: **69,386** lines of code across **655** files in the top 5 languages.
+Total: **69,496** lines of code across **657** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 66,988 | 4,267 | 6,899 | 629 |
+| Rust | 67,051 | 4,268 | 6,908 | 630 |
 | Css | 855 | 63 | 22 | 1 |
-| Toml | 490 | 244 | 90 | 15 |
-| Sh | 427 | 320 | 77 | 6 |
+| Toml | 492 | 248 | 91 | 15 |
+| Sh | 471 | 344 | 89 | 7 |
 | Python | 268 | 44 | 53 | 4 |
 
 ## Source
@@ -32,9 +32,9 @@ Total: **69,386** lines of code across **655** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.1.26` (2026-07-17)
-- **Last commit**: 2026-09-18
-- **Assets in release**: 11
+- **Latest**: `0.1.27` (2026-10-02)
+- **Last commit**: 2026-10-03
+- **Assets in release**: 10
 
 ## Popularity
 
@@ -42,34 +42,33 @@ Total: **69,386** lines of code across **655** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 23 · **Open PRs**: 13 · **Closed issues**: 11 · **Open issues**: 1 · **Commits**: 351
+- **Releases**: 30 · **Merged PRs**: 23 · **Open PRs**: 13 · **Closed issues**: 11 · **Open issues**: 1 · **Commits**: 356
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-04 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-05 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-07 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-12 | 24 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-03 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-04 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-05 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-06 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-08 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-13 | 25 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [hygg-android-0.1.26-debug.apk](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-android-0.1.26-debug.apk) | 103.4 MiB | `other` |
-| [hygg-cli-0.1.26-macos-universal.tar.gz](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-cli-0.1.26-macos-universal.tar.gz) | 11.9 MiB | `native/darwin/x64` |
-| [hygg-cli-0.1.26-x86_64-linux.tar.gz](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-cli-0.1.26-x86_64-linux.tar.gz) | 7.0 MiB | `native/linux/x64` |
-| [hygg-cli-0.1.26-x86_64-windows.zip](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-cli-0.1.26-x86_64-windows.zip) | 5.4 MiB | `native/win/x64` |
-| [hygg-desktop-0.1.26-macos-universal.dmg](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-desktop-0.1.26-macos-universal.dmg) | 18.1 MiB | `native/darwin/x64` |
-| [hygg-desktop-0.1.26-x86_64-linux.AppImage](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-desktop-0.1.26-x86_64-linux.AppImage) | 83.4 MiB | `native/linux/x64` |
-| [hygg-desktop-0.1.26-x86_64-linux.deb](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-desktop-0.1.26-x86_64-linux.deb) | 9.8 MiB | `native/linux/x64` |
-| [hygg-desktop-0.1.26-x86_64-linux.rpm](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-desktop-0.1.26-x86_64-linux.rpm) | 9.8 MiB | `native/linux/x64` |
-| [hygg-desktop-0.1.26-x86_64-windows.exe](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-desktop-0.1.26-x86_64-windows.exe) | 7.2 MiB | `native/win/x64` |
-| [hygg-desktop-0.1.26-x86_64-windows.msi](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-desktop-0.1.26-x86_64-windows.msi) | 9.0 MiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/kruserr/hygg/releases/download/0.1.26/SHA256SUMS) | 1.0 KiB | `other` |
+| [hygg-android-0.1.27-debug.apk](https://github.com/kruserr/hygg/releases/download/0.1.27/hygg-android-0.1.27-debug.apk) | 103.7 MiB | `other` |
+| [hygg-cli-0.1.27-macos-universal.tar.gz](https://github.com/kruserr/hygg/releases/download/0.1.27/hygg-cli-0.1.27-macos-universal.tar.gz) | 11.8 MiB | `native/darwin/x64` |
+| [hygg-cli-0.1.27-x86_64-linux.tar.gz](https://github.com/kruserr/hygg/releases/download/0.1.27/hygg-cli-0.1.27-x86_64-linux.tar.gz) | 7.0 MiB | `native/linux/x64` |
+| [hygg-cli-0.1.27-x86_64-windows.zip](https://github.com/kruserr/hygg/releases/download/0.1.27/hygg-cli-0.1.27-x86_64-windows.zip) | 5.4 MiB | `native/win/x64` |
+| [hygg-desktop-0.1.27-macos-universal.dmg](https://github.com/kruserr/hygg/releases/download/0.1.27/hygg-desktop-0.1.27-macos-universal.dmg) | 18.7 MiB | `native/darwin/x64` |
+| [hygg-desktop-0.1.27-x86_64-linux.AppImage](https://github.com/kruserr/hygg/releases/download/0.1.27/hygg-desktop-0.1.27-x86_64-linux.AppImage) | 84.5 MiB | `native/linux/x64` |
+| [hygg-desktop-0.1.27-x86_64-linux.deb](https://github.com/kruserr/hygg/releases/download/0.1.27/hygg-desktop-0.1.27-x86_64-linux.deb) | 10.1 MiB | `native/linux/x64` |
+| [hygg-desktop-0.1.27-x86_64-linux.rpm](https://github.com/kruserr/hygg/releases/download/0.1.27/hygg-desktop-0.1.27-x86_64-linux.rpm) | 10.1 MiB | `native/linux/x64` |
+| [hygg-desktop-0.1.27-x86_64-windows.zip](https://github.com/kruserr/hygg/releases/download/0.1.27/hygg-desktop-0.1.27-x86_64-windows.zip) | 8.8 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/kruserr/hygg/releases/download/0.1.27/SHA256SUMS) | 947 B | `other` |
 
 ## Improve this data
 
@@ -80,4 +79,4 @@ Install metadata for hygg lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:39:08Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T06:23:28Z._

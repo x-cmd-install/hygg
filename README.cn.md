@@ -14,14 +14,14 @@ x install hygg
 
 ## 代码洞察
 
-合计: **69,386** 行代码（覆盖前 5 种语言、共 **655** 个文件）。
+合计: **69,496** 行代码（覆盖前 5 种语言、共 **657** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 66,988 | 4,267 | 6,899 | 629 |
+| Rust | 67,051 | 4,268 | 6,908 | 630 |
 | Css | 855 | 63 | 22 | 1 |
-| Toml | 490 | 244 | 90 | 15 |
-| Sh | 427 | 320 | 77 | 6 |
+| Toml | 492 | 248 | 91 | 15 |
+| Sh | 471 | 344 | 89 | 7 |
 | Python | 268 | 44 | 53 | 4 |
 
 ## 源代码
@@ -32,9 +32,9 @@ x install hygg
 
 ## 发布
 
-- **最新版本**: `0.1.26` (2026-07-17)
-- **最近提交**: 2026-09-18
-- **Release 含资产**: 11 个
+- **最新版本**: `0.1.27` (2026-10-02)
+- **最近提交**: 2026-10-03
+- **Release 含资产**: 10 个
 
 ## 流行度
 
@@ -42,34 +42,33 @@ x install hygg
 
 ## 累计统计
 
-- **发布数**: 29 · **已合并 PR**: 23 · **开放 PR**: 13 · **已关闭 issue**: 11 · **开放 issue**: 1 · **提交数**: 351
+- **发布数**: 30 · **已合并 PR**: 23 · **开放 PR**: 13 · **已关闭 issue**: 11 · **开放 issue**: 1 · **提交数**: 356
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-04 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-05 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-07 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-12 | 24 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-03 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-04 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-05 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-06 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-08 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-13 | 25 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [hygg-android-0.1.26-debug.apk](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-android-0.1.26-debug.apk) | 103.4 MiB | `other` |
-| [hygg-cli-0.1.26-macos-universal.tar.gz](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-cli-0.1.26-macos-universal.tar.gz) | 11.9 MiB | `native/darwin/x64` |
-| [hygg-cli-0.1.26-x86_64-linux.tar.gz](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-cli-0.1.26-x86_64-linux.tar.gz) | 7.0 MiB | `native/linux/x64` |
-| [hygg-cli-0.1.26-x86_64-windows.zip](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-cli-0.1.26-x86_64-windows.zip) | 5.4 MiB | `native/win/x64` |
-| [hygg-desktop-0.1.26-macos-universal.dmg](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-desktop-0.1.26-macos-universal.dmg) | 18.1 MiB | `native/darwin/x64` |
-| [hygg-desktop-0.1.26-x86_64-linux.AppImage](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-desktop-0.1.26-x86_64-linux.AppImage) | 83.4 MiB | `native/linux/x64` |
-| [hygg-desktop-0.1.26-x86_64-linux.deb](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-desktop-0.1.26-x86_64-linux.deb) | 9.8 MiB | `native/linux/x64` |
-| [hygg-desktop-0.1.26-x86_64-linux.rpm](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-desktop-0.1.26-x86_64-linux.rpm) | 9.8 MiB | `native/linux/x64` |
-| [hygg-desktop-0.1.26-x86_64-windows.exe](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-desktop-0.1.26-x86_64-windows.exe) | 7.2 MiB | `native/win/x64` |
-| [hygg-desktop-0.1.26-x86_64-windows.msi](https://github.com/kruserr/hygg/releases/download/0.1.26/hygg-desktop-0.1.26-x86_64-windows.msi) | 9.0 MiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/kruserr/hygg/releases/download/0.1.26/SHA256SUMS) | 1.0 KiB | `other` |
+| [hygg-android-0.1.27-debug.apk](https://github.com/kruserr/hygg/releases/download/0.1.27/hygg-android-0.1.27-debug.apk) | 103.7 MiB | `other` |
+| [hygg-cli-0.1.27-macos-universal.tar.gz](https://github.com/kruserr/hygg/releases/download/0.1.27/hygg-cli-0.1.27-macos-universal.tar.gz) | 11.8 MiB | `native/darwin/x64` |
+| [hygg-cli-0.1.27-x86_64-linux.tar.gz](https://github.com/kruserr/hygg/releases/download/0.1.27/hygg-cli-0.1.27-x86_64-linux.tar.gz) | 7.0 MiB | `native/linux/x64` |
+| [hygg-cli-0.1.27-x86_64-windows.zip](https://github.com/kruserr/hygg/releases/download/0.1.27/hygg-cli-0.1.27-x86_64-windows.zip) | 5.4 MiB | `native/win/x64` |
+| [hygg-desktop-0.1.27-macos-universal.dmg](https://github.com/kruserr/hygg/releases/download/0.1.27/hygg-desktop-0.1.27-macos-universal.dmg) | 18.7 MiB | `native/darwin/x64` |
+| [hygg-desktop-0.1.27-x86_64-linux.AppImage](https://github.com/kruserr/hygg/releases/download/0.1.27/hygg-desktop-0.1.27-x86_64-linux.AppImage) | 84.5 MiB | `native/linux/x64` |
+| [hygg-desktop-0.1.27-x86_64-linux.deb](https://github.com/kruserr/hygg/releases/download/0.1.27/hygg-desktop-0.1.27-x86_64-linux.deb) | 10.1 MiB | `native/linux/x64` |
+| [hygg-desktop-0.1.27-x86_64-linux.rpm](https://github.com/kruserr/hygg/releases/download/0.1.27/hygg-desktop-0.1.27-x86_64-linux.rpm) | 10.1 MiB | `native/linux/x64` |
+| [hygg-desktop-0.1.27-x86_64-windows.zip](https://github.com/kruserr/hygg/releases/download/0.1.27/hygg-desktop-0.1.27-x86_64-windows.zip) | 8.8 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/kruserr/hygg/releases/download/0.1.27/SHA256SUMS) | 947 B | `other` |
 
 ## 改进这些数据
 
@@ -80,4 +79,4 @@ hygg 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261002.yml` · 2026-10-02T06:39:08Z._
+_数据快照: `data/card/261003.yml` · 2026-10-03T06:23:29Z._
