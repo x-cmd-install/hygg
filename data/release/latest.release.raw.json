@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 108771044,
       "digest": "sha256:68f6c1bc4b6881574a93cb9b9eb992b18d43a0ddaee5585a8ab520aec90fc75e",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-02T14:49:57Z",
       "updated_at": "2026-10-02T14:50:31Z",
       "browser_download_url": "https://github.com/kruseio/hygg/releases/download/0.1.27/hygg-android-0.1.27-debug.apk"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7308722,
       "digest": "sha256:ffa2e5d6b277edd728606ba2f58488c6748969296ab2933a9c86c347b08bd7ed",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-10-02T14:48:23Z",
       "updated_at": "2026-10-02T14:48:24Z",
       "browser_download_url": "https://github.com/kruseio/hygg/releases/download/0.1.27/hygg-cli-0.1.27-x86_64-linux.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5643367,
       "digest": "sha256:767307f086cd8e3eeb85b9995ed5c5c67f8c6fe723ce3c089d34f195327f1591",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-02T14:48:23Z",
       "updated_at": "2026-10-02T14:48:23Z",
       "browser_download_url": "https://github.com/kruseio/hygg/releases/download/0.1.27/hygg-cli-0.1.27-x86_64-windows.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 19640400,
       "digest": "sha256:f78a1e30a3fbeb94f56a3537fe0bad8e8274b13c00d819365bb2ef744cc83041",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-02T14:48:23Z",
       "updated_at": "2026-10-02T14:48:24Z",
       "browser_download_url": "https://github.com/kruseio/hygg/releases/download/0.1.27/hygg-desktop-0.1.27-macos-universal.dmg"
