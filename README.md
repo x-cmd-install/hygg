@@ -14,15 +14,15 @@ x install hygg
 
 ## Code insight
 
-Total: **69,496** lines of code across **657** files in the top 5 languages.
+Total: **73,630** lines of code across **690** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 67,051 | 4,268 | 6,908 | 630 |
+| Rust | 71,114 | 4,824 | 7,291 | 662 |
 | Css | 855 | 63 | 22 | 1 |
-| Toml | 492 | 248 | 91 | 15 |
-| Sh | 471 | 344 | 89 | 7 |
-| Python | 268 | 44 | 53 | 4 |
+| Toml | 502 | 271 | 92 | 15 |
+| Sh | 472 | 333 | 89 | 7 |
+| Python | 328 | 48 | 60 | 5 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **69,496** lines of code across **657** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.1.27` (2026-10-02)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-30
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 362 · **Forks**: 17 · **Open issues**: 12 · **Contributors**: 4
+- **Stars**: 362 · **Forks**: 17 · **Open issues**: 13 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 23 · **Open PRs**: 13 · **Closed issues**: 11 · **Open issues**: 1 · **Commits**: 356
+- **Releases**: 30 · **Merged PRs**: 23 · **Open PRs**: 13 · **Closed issues**: 11 · **Open issues**: 2 · **Commits**: 358
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-30 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-31 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-02 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-03 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-08 | 21 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-30 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-31 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-01 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-03 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-04 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-09 | 21 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for hygg lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T07:15:09Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:54:35Z._
